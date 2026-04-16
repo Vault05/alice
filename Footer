@@ -1,0 +1,22 @@
+    <footer>
+        <div class="divfooter1">
+            <h2>Pulse Studio</h2>
+            <p>Agência fictícia criada para desafio de HTML e CSS</p>
+        </div>  
+        <div class="divfooter2">
+            <h2>Navegação</h2>
+            <p><a href="inicio.html">Início</a></p>
+            <p><a href="serviços.html">Serviços</a></p>
+            <p><a href="equipe.hmtl">Equipe</a></p>
+        </div>
+        <div class="divfooter3">
+        <h2>Contato</h2>
+        <p>contato@pulsestudio.com</p>
+        <p>(34) 99999-9999</p>
+        </div>
+        <div class="divfooter4">
+        <p>Projeto exemplo para competição em sala</p>
+        </div>
+    </footer>
+</body>
+</html>
